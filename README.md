@@ -1,5 +1,5 @@
 # testForTemplate
-this is a test project for kinds of templates
+This is a test project for kinds of templates
 
 ## 1. pull request template
 
